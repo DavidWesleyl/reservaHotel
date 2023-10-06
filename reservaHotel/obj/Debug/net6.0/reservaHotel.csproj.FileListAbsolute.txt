@@ -1,0 +1,14 @@
+C:\dev\reservaHotel\reservaHotel\bin\Debug\net6.0\reservaHotel.exe
+C:\dev\reservaHotel\reservaHotel\bin\Debug\net6.0\reservaHotel.deps.json
+C:\dev\reservaHotel\reservaHotel\bin\Debug\net6.0\reservaHotel.runtimeconfig.json
+C:\dev\reservaHotel\reservaHotel\bin\Debug\net6.0\reservaHotel.dll
+C:\dev\reservaHotel\reservaHotel\bin\Debug\net6.0\reservaHotel.pdb
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\reservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\reservaHotel.AssemblyInfoInputs.cache
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\reservaHotel.AssemblyInfo.cs
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\reservaHotel.csproj.CoreCompileInputs.cache
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\reservaHotel.dll
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\refint\reservaHotel.dll
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\reservaHotel.pdb
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\reservaHotel.genruntimeconfig.cache
+C:\dev\reservaHotel\reservaHotel\obj\Debug\net6.0\ref\reservaHotel.dll
